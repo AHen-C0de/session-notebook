@@ -2,7 +2,7 @@
 
 ## Mac Shell
 
-- [main](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
+- [Main](https://github.com/0nn0/terminal-mac-cheatsheet#english-version)
 
 - configure Terminal
   > p10k configure
