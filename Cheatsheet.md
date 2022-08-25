@@ -1,5 +1,12 @@
 # Cheatsheets
 
+## General programming
+
+- string must start with ...
+  > ^=
+- string must contain ...
+  > \*=
+
 ## Mac Shell
 
 - configure Terminal:
